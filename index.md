@@ -1,5 +1,5 @@
 ## 自己紹介
-大学生
+美味しいもの飲み食いしたい大学生
 
 ## アカウント
 - Twitter: [ritsuxis](https://twitter.com/ritsuxis)
@@ -20,10 +20,14 @@
 - ICTSC2020 本戦 9位(kstm)
 - 情報危機管理コンテスト第16回 1次予選通過
 
-他
+他 各種大会等出場
 
 ### オンラインコンテスト
 - [AtCoder](https://atcoder.jp/users/seiritsu?lang=ja) : 緑
+
+### アルバイト
+- 使えるねっと株式会社 カスタマーサポート(2019/05~2022/03)
+- 使えるねっと株式会社 開発(2021/04~)
 
 ## リポジトリ
 - [go-tcpip](https://github.com/ritsuxis/go-tcpip) : GoによるTCP/IPの再実装
