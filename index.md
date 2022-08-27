@@ -29,6 +29,9 @@
 - 使えるねっと株式会社 カスタマーサポート(2019/05~2022/03)
 - 使えるねっと株式会社 開発(2021/04~)
 
+### インターン
+- CARTA HOLDINGS Treaure2022 バックエンド賞
+
 ## リポジトリ
 - [go-tcpip](https://github.com/ritsuxis/go-tcpip) : GoによるTCP/IPの再実装
 - [YY-MusicZ](https://github.com/NaginoMiya/YY-MusicZ) : 同じページにアクセスしている人の間での半共有プレイリストWebアプリ
