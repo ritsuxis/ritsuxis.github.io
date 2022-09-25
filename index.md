@@ -31,6 +31,7 @@
 
 ### インターン
 - CARTA HOLDINGS Treaure2022 バックエンド賞
+- DMM.com DMM GUILD 2022 お助けThanks!賞・複数技術Issue賞
 
 ## リポジトリ
 - [go-tcpip](https://github.com/ritsuxis/go-tcpip) : GoによるTCP/IPの再実装
