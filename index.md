@@ -1,5 +1,5 @@
 ## 自己紹介
-美味しいもの飲み食いしたい大学生
+美味しいもの飲み食いしたい大学院生
 
 ## アカウント
 - Twitter: [ritsuxis](https://twitter.com/ritsuxis)
