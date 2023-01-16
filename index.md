@@ -33,6 +33,11 @@
 - CARTA HOLDINGS Treaure2022 バックエンド賞
 - DMM.com DMM GUILD 2022 お助けThanks!賞・複数技術Issue賞
 
+### OSS
+- 翻訳: https://crowdin.com/profile/ritsuxis
+- airone: https://github.com/dmm-com/airone
+- RDM-waterbutler: https://github.com/RCOSDP/RDM-waterbutler
+
 ## リポジトリ
 - [go-tcpip](https://github.com/ritsuxis/go-tcpip) : GoによるTCP/IPの再実装
 - [YY-MusicZ](https://github.com/NaginoMiya/YY-MusicZ) : 同じページにアクセスしている人の間での半共有プレイリストWebアプリ
