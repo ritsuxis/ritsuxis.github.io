@@ -34,9 +34,9 @@
 - DMM.com DMM GUILD 2022 お助けThanks!賞・複数技術Issue賞
 
 ### OSS
-- 翻訳: https://crowdin.com/profile/ritsuxis
-- airone: https://github.com/dmm-com/airone
-- RDM-waterbutler: https://github.com/RCOSDP/RDM-waterbutler
+- [翻訳](https://crowdin.com/profile/ritsuxis): よく使用しているprotonのサービスの翻訳をしています
+- [airone](https://github.com/dmm-com/airone): DMMのインターンで一部機能追加しました
+- [RDM-waterbutler](https://github.com/RCOSDP/RDM-waterbutler): アルバイトで一部機能追加しました
 
 ## リポジトリ
 - [go-tcpip](https://github.com/ritsuxis/go-tcpip) : GoによるTCP/IPの再実装
