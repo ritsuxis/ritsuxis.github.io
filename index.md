@@ -1,12 +1,10 @@
 ## 自己紹介
-美味しいもの飲み食いしたい大学院生
+ゲームとビールと温泉が好きです
 
 ## アカウント
 - Twitter: [ritsuxis](https://twitter.com/ritsuxis)
 - GitHub: [ritsuxis](https://github.com/ritsuxis)
 - Blog: [りつくろいす](https://seiritsu.hateblo.jp/)
-- Booth: [ritsuxis](https://ritsuxis.booth.pm/)
-- Pixiv: [せーりつ](https://www.pixiv.net/users/65179763)
 
 ## 活動経歴
 
@@ -27,14 +25,13 @@
 
 ### アルバイト
 - 使えるねっと株式会社 カスタマーサポート(2019/05~2022/03)
-- 使えるねっと株式会社 開発(2021/04~)
+- 使えるねっと株式会社 開発(2021/04~2023/06)
 
 ### インターン
 - CARTA HOLDINGS Treaure2022 バックエンド賞
 - DMM.com DMM GUILD 2022 お助けThanks!賞・複数技術Issue賞
 
 ### OSS
-- [翻訳](https://crowdin.com/profile/ritsuxis): よく使用しているprotonのサービスの翻訳をしています
 - [airone](https://github.com/dmm-com/airone): DMMのインターンで一部機能追加しました
 - [RDM-waterbutler](https://github.com/RCOSDP/RDM-waterbutler): アルバイトで一部機能追加しました
 
